@@ -1,0 +1,5 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"AE1","1","Antenna","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_SparkFun-RF:GNSS_Ceramic_Antenna_18.0x18.0mm",""
+"E28-2G4M27S1","1","","","","","","${EXCLUDE_FROM_POS_FILES}","",""
+"J1","1","Conn_Coaxial","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_SparkFun-Connector:1x02",""
+"MCU?","1","NUCLEO144-H743ZI","","","","","${EXCLUDE_FROM_POS_FILES}","Module:ST_Morpho_Connector_144_STLink","https://www.st.com/resource/en/user_manual/dm00244518-stm32-nucleo144-boards-stmicroelectronics.pdf"
