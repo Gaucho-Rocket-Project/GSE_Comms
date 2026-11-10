@@ -3502,7 +3502,7 @@
 			(uuid "e9fc2ec8-f5d5-4ec3-a84e-f26416b7b323")
 		)
 		(instances
-			(project "GSE_revised"
+			(project "GSE_revised_pca"
 				(path "/8c748ba4-79d4-4037-8b86-9104cd6f6ad0"
 					(reference "U2")
 					(unit 1)
@@ -3617,7 +3617,7 @@
 			(uuid "0f4f8d38-438f-452f-a548-ae56e612c279")
 		)
 		(instances
-			(project "GSE_revised"
+			(project "GSE_revised_pca"
 				(path "/8c748ba4-79d4-4037-8b86-9104cd6f6ad0"
 					(reference "12V")
 					(unit 1)
@@ -3703,7 +3703,7 @@
 			(uuid "a5741606-d254-4169-9030-bc6bf674e35a")
 		)
 		(instances
-			(project "GSE_revised"
+			(project "GSE_revised_pca"
 				(path "/8c748ba4-79d4-4037-8b86-9104cd6f6ad0"
 					(reference "5VBuck")
 					(unit 1)
@@ -3795,7 +3795,7 @@
 			(uuid "cfac37bf-5d27-42b7-84de-75d1ff18bcee")
 		)
 		(instances
-			(project "GSE_revised"
+			(project "GSE_revised_pca"
 				(path "/8c748ba4-79d4-4037-8b86-9104cd6f6ad0"
 					(reference "10A30V")
 					(unit 1)
@@ -3815,7 +3815,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "85315b45-7ce0-4b24-8e6a-dda5984051fe")
-		(property "Reference" "SRV1"
+		(property "Reference" "SRV0"
 			(at 612.14 320.8768 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3880,9 +3880,9 @@
 			(uuid "34b63e98-e809-4c09-aaba-da1c5c3d4acf")
 		)
 		(instances
-			(project "GSE_revised"
+			(project "GSE_revised_pca"
 				(path "/8c748ba4-79d4-4037-8b86-9104cd6f6ad0"
-					(reference "SRV1")
+					(reference "SRV0")
 					(unit 1)
 				)
 			)
@@ -3900,7 +3900,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86edfbf8-d4cc-4358-8b6b-50795024c297")
-		(property "Reference" "SRV2"
+		(property "Reference" "SRV1"
 			(at 612.14 331.0368 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3965,9 +3965,9 @@
 			(uuid "fb3fbb86-8baa-4eb7-aa71-0ae471a8e468")
 		)
 		(instances
-			(project "GSE_revised"
+			(project "GSE_revised_pca"
 				(path "/8c748ba4-79d4-4037-8b86-9104cd6f6ad0"
-					(reference "SRV2")
+					(reference "SRV1")
 					(unit 1)
 				)
 			)
@@ -4045,7 +4045,7 @@
 			(uuid "5391dab3-d3fe-434f-ab93-531537381749")
 		)
 		(instances
-			(project "GSE_revised"
+			(project "GSE_revised_pca"
 				(path "/8c748ba4-79d4-4037-8b86-9104cd6f6ad0"
 					(reference "PowerSwitch")
 					(unit 1)
@@ -4130,7 +4130,7 @@
 			(uuid "137f5378-c133-4a3c-b90b-01a4509f2785")
 		)
 		(instances
-			(project "GSE_revised"
+			(project "GSE_revised_pca"
 				(path "/8c748ba4-79d4-4037-8b86-9104cd6f6ad0"
 					(reference "FILL1")
 					(unit 1)
@@ -4212,7 +4212,7 @@
 			(uuid "918125de-3888-4de9-83bd-b245e4b685aa")
 		)
 		(instances
-			(project "GSE_revised"
+			(project "GSE_revised_pca"
 				(path "/8c748ba4-79d4-4037-8b86-9104cd6f6ad0"
 					(reference "IGN")
 					(unit 1)
@@ -4410,7 +4410,7 @@
 			(uuid "532c9c9a-db87-4985-8bca-57729653ebb2")
 		)
 		(instances
-			(project "GSE_revised"
+			(project "GSE_revised_pca"
 				(path "/8c748ba4-79d4-4037-8b86-9104cd6f6ad0"
 					(reference "U1")
 					(unit 1)
