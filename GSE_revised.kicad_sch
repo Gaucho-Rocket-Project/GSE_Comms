@@ -2206,12 +2206,6 @@
 		(uuid "9e06ed5a-fee6-4c04-a2ef-a4cde523d08f")
 	)
 	(junction
-		(at 523.24 304.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e80a666c-cdec-4524-8452-24c619d6df49")
-	)
-	(junction
 		(at 474.98 284.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2319,6 +2313,16 @@
 	)
 	(wire
 		(pts
+			(xy 523.24 307.34) (xy 523.24 320.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46f4bd9c-2431-4c9d-aafe-41738f26732d")
+	)
+	(wire
+		(pts
 			(xy 528.32 279.4) (xy 528.32 285.75)
 		)
 		(stroke
@@ -2359,13 +2363,13 @@
 	)
 	(wire
 		(pts
-			(xy 508 304.8) (xy 523.24 304.8)
+			(xy 508 307.34) (xy 523.24 307.34)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6413f379-9308-4c21-9631-c3fe3d15a251")
+		(uuid "6994f943-0e7b-46ec-8713-9b179f506d62")
 	)
 	(wire
 		(pts
@@ -2679,23 +2683,13 @@
 	)
 	(wire
 		(pts
-			(xy 523.24 304.8) (xy 546.1 304.8)
+			(xy 508 304.8) (xy 546.1 304.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "fbffd5ba-ec81-42e6-93f0-bd695d2f2bea")
-	)
-	(wire
-		(pts
-			(xy 523.24 304.8) (xy 523.24 320.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe5ad6db-0a03-422f-99fb-e52922b80726")
 	)
 	(symbol
 		(lib_id "Device:Battery")
